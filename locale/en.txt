@@ -1,0 +1,20 @@
+#: locale=en
+
+## Media
+
+### Title
+album_8DDB8A97_83EC_453F_41B6_7CA0161B4E07_0.label = ITEM WEBSITE code warna-01
+album_8DDB8A97_83EC_453F_41B6_7CA0161B4E07.label = Photo Album ITEM WEBSITE code warna-01
+
+## Skin
+
+### Image
+Image_8E47771D_83EC_4B01_419C_95552ECD7BDA.url = skin/Image_8E47771D_83EC_4B01_419C_95552ECD7BDA_en.jpg
+Image_8E47771D_83EC_4B01_419C_95552ECD7BDA_mobile.url = skin/Image_8E47771D_83EC_4B01_419C_95552ECD7BDA_mobile_en.jpg
+
+## Tour
+
+### Description
+
+### Title
+tour.name = ceritasungai
