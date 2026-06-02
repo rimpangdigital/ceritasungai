@@ -1,20 +1,224 @@
 #: locale=en
 
+## Action
+
+### URL
+LinkBehaviour_9F233A59_88C0_AAB2_41D3_0904E1C94CFC.source = mailto:tarawima@gmail.com
+LinkBehaviour_9F6DAB6F_88C7_A96E_41DE_490E021968AE.source = mailto:tarawima@gmail.com
+
 ## Media
 
 ### Title
-album_8DDB8A97_83EC_453F_41B6_7CA0161B4E07_0.label = ITEM WEBSITE code warna-01
-album_8DDB8A97_83EC_453F_41B6_7CA0161B4E07.label = Photo Album ITEM WEBSITE code warna-01
+album_85ECF91C_8840_96DE_41DE_2CEAFC49F7BB_0.label = ITEM WEBSITE code warna-01
+album_85ECF91C_8840_96DE_41DE_2CEAFC49F7BB.label = Photo Album ITEM WEBSITE code warna-01
+video_9C75A5CD_8843_F9A9_41DD_A6A5C99B5311.label = deli
+video_9D6D183B_8840_96E9_41DA_5645759027AA.label = sungai kapuas final
+
+### Video
+videolevel_9CA2F3C8_8840_9997_41D3_17DCD4998D7B.url = media/video_9C75A5CD_8843_F9A9_41DD_A6A5C99B5311_en.mp4
+videolevel_9CA2F3C8_8840_9997_41D3_17DCD4998D7B.posterURL = media/video_9C75A5CD_8843_F9A9_41DD_A6A5C99B5311_poster_en.jpg
+videolevel_9CB6D53A_8840_9EEB_41D5_04BFE85216B6.url = media/video_9D6D183B_8840_96E9_41DA_5645759027AA_en.mp4
+videolevel_9CB6D53A_8840_9EEB_41D5_04BFE85216B6.posterURL = media/video_9D6D183B_8840_96E9_41DA_5645759027AA_poster_en.jpg
+
+### Video Subtitles
 
 ## Skin
 
+### Button
+Button_9F8764A9_88C0_FF95_41DA_9F7CAF722DB2.label = About
+Button_9F8764A9_88C0_FF95_41DA_9F7CAF722DB2_mobile.label = About
+Button_9B65B20A_8840_BAA8_41CE_55E6CF7EBF02.label = BACK
+Button_9B66720B_8840_BAA8_41DC_3439D02DD985_mobile.label = BACK
+Button_9B65A20B_8840_BAA8_41DF_4E5BF80E68BA_mobile.label = BACK
+Button_9B643209_8840_BAA8_41E0_DE2F39E809C0.label = BACK
+Button_9B65B20A_8840_BAA8_41CE_55E6CF7EBF02_mobile.label = BACK
+Button_9B652209_8840_BAA8_41DF_8C3C343ABB4D.label = BACK
+Button_9B652209_8840_BAA8_41DF_8C3C343ABB4D_mobile.label = BACK
+Button_9B65A20B_8840_BAA8_41DF_4E5BF80E68BA.label = BACK
+Button_9B66720B_8840_BAA8_41DC_3439D02DD985.label = BACK
+Button_9B65C20A_8840_BAA8_41E0_A8F6049480A5.label = BACK
+Button_9B65C20A_8840_BAA8_41E0_A8F6049480A5_mobile.label = BACK
+Button_9B643209_8840_BAA8_41E0_DE2F39E809C0_mobile.label = BACK
+Button_9B654209_8840_BAA8_41DB_E44CD432A0A6.label = Bar
+Button_9B654209_8840_BAA8_41DB_E44CD432A0A6_mobile.label = Bar
+Button_9B657209_8840_BAA8_41D8_8FE4B057A200_mobile.label = Chill Out
+Button_9B657209_8840_BAA8_41D8_8FE4B057A200.label = Chill Out
+Button_9F85768F_88C7_9BAE_41DF_FA2E8A01E4BB_mobile.label = Contact
+Button_9F85768F_88C7_9BAE_41DF_FA2E8A01E4BB.label = Contact
+Button_9B651209_8840_BAA8_41DE_81D54E977297.label = Garden
+Button_9B651209_8840_BAA8_41DE_81D54E977297_mobile.label = Garden
+Button_9B64D208_8840_BAA8_41D1_2352E8805A41_mobile.label = HOME
+Button_9B64D208_8840_BAA8_41D1_2352E8805A41.label = HOME
+Button_9B64F209_8840_BAA8_41DA_2BA515D24BAE.label = Lobby
+Button_9B64F209_8840_BAA8_41DA_2BA515D24BAE_mobile.label = Lobby
+Button_9B65B20A_8840_BAA8_41C2_47FBB856FEF8.label = Lorem Ipsum
+Button_9B65320A_8840_BAA8_41DD_95ACF039A232.label = Lorem Ipsum
+Button_9B65220A_8840_BAA8_41E0_8D0579CC7481.label = Lorem Ipsum
+Button_9B65620A_8840_BAA8_41D0_F13DC837A747.label = Lorem Ipsum
+Button_9B65120A_8840_BAA8_41DF_161B4BC53E75.label = Lorem Ipsum
+Button_9B65520A_8840_BAA8_41DA_8167E7363996.label = Lorem Ipsum
+Button_9B65420A_8840_BAA8_41D8_F796C97B6845.pressedLabel = Lorem Ipsum
+Button_9B65420A_8840_BAA8_41D8_F796C97B6845.label = Lorem Ipsum
+Button_9B65720A_8840_BAA8_41AE_D2D98760468A.label = Lorem Ipsum
+Button_9B64B20A_8840_BAA8_41DC_64C8CDB49E64.label = Lorem Ipsum
+Button_9B65620A_8840_BAA8_41C3_955E6D9110BB.label = Lorem Ipsum
+Button_9B65320A_8840_BAA8_41CC_D6BF253365FC.label = Lorem Ipsum
+Button_9B65220A_8840_BAA8_41CE_753AE323DB3D.label = Lorem Ipsum
+Button_9B65D20A_8840_BAA8_41E0_BA5859A05CAA.label = Lorem Ipsum
+Button_9B65F20A_8840_BAA8_4179_BA7931604B8C.label = Lorem Ipsum
+Button_9B64820A_8840_BAA8_41E0_C695A4A08E8E.label = Lorem Ipsum
+Button_9B66420A_8840_BAA8_41BA_ADC3A3AB1915.label = Lorem Ipsum
+Button_9B66720B_8840_BAA8_41E0_E6C154036108.label = Lorem Ipsum
+Button_9B66620B_8840_BAA8_41D7_FE0CA45667C5.pressedLabel = Lorem Ipsum
+Button_9B66620B_8840_BAA8_41D7_FE0CA45667C5.label = Lorem Ipsum
+Button_9B65620B_8840_BAA8_41DC_CBC2CFAED741.label = Lorem Ipsum
+Button_9B65120B_8840_BAA8_41DE_DB28480868BE.label = Lorem Ipsum
+Button_9B650209_8840_BAA8_41D9_5D28E9EA4F88.label = Lorem Ipsum
+Button_9B65220B_8840_BAA8_41BD_EB923F191BE3.label = Lorem Ipsum
+Button_9B65D20B_8840_BAA8_41D0_ABF3B5BFE440.label = Lorem Ipsum
+Button_9B65E20B_8840_BAA8_41E0_082DDCBD69EC.label = Lorem Ipsum
+Button_9B65820B_8840_BAA8_41D1_FD559D1707A9.label = Lorem Ipsum
+Button_9B64820A_8840_BAA8_41E0_C695A4A08E8E.pressedLabel = Lorem Ipsum
+Button_9B66720B_8840_BAA8_41B3_E4AC38359661.label = Lorem Ipsum
+Button_9B66120B_8840_BAA8_41CE_82933C0DE3D5.label = Lorem Ipsum
+Button_9B66320B_8840_BAA8_41D8_0202FEA9C22F.pressedLabel = Lorem Ipsum
+Button_9B66320B_8840_BAA8_41D8_0202FEA9C22F.label = Lorem Ipsum
+Button_9B66220B_8840_BAA8_41DA_732FF2745AD0.label = Lorem Ipsum
+Button_9B66D20B_8840_BAA8_41DE_BB7097A4D82B.label = Lorem Ipsum
+Button_9B64B20A_8840_BAA8_41DC_64C8CDB49E64_mobile.label = Lorem Ipsum
+Button_9B65F20B_8840_BAA8_41E1_0A54445402E2.label = Lorem Ipsum
+Button_9B65920B_8840_BAA8_41D0_1C82472CE2AC.label = Lorem Ipsum
+Button_9B65B20B_8840_BAA8_41D1_0483CAA250A7.label = Lorem Ipsum
+Button_9B65A20B_8840_BAA8_41C5_C82A54E29C23.label = Lorem Ipsum
+Button_9B64920A_8840_BAA8_41D2_87B7183C5DE3.label = Lorem Ipsum
+Button_9B66020C_8840_BAA8_41E0_6007B9714EC7.label = Lorem Ipsum
+Button_9B66320C_8840_BAA8_41E1_0150D46CB503.label = Lorem Ipsum
+Button_9B66220C_8840_BAA8_41BF_7101061CA8AF.pressedLabel = Lorem Ipsum
+Button_9B66220C_8840_BAA8_41BF_7101061CA8AF.label = Lorem Ipsum
+Button_9B66D20C_8840_BAA8_41CB_B188401B52F3.label = Lorem Ipsum
+Button_9B66C20C_8840_BAA8_41D7_E1CC1CC0C729.label = Lorem Ipsum
+Button_9B65220A_8840_BAA8_41E0_8D0579CC7481_mobile.label = Lorem Ipsum
+Button_9B65820C_8840_BAA8_41CD_1092219C1D67.label = Lorem Ipsum
+Button_9B66520C_8840_BAA8_41E0_3CA54F88B60A.label = Lorem Ipsum
+Button_9B66420C_8840_BAA8_41BC_8F1B0F1029B4.label = Lorem Ipsum
+Button_9B66720C_8840_BAA8_41A7_FBD8BDADFD44.label = Lorem Ipsum
+Button_9B65520A_8840_BAA8_41DA_8167E7363996_mobile.label = Lorem Ipsum
+Button_9B66720C_8840_BAA8_41A7_FBD8BDADFD44_mobile.label = Lorem Ipsum
+Button_9B66420C_8840_BAA8_41BC_8F1B0F1029B4_mobile.label = Lorem Ipsum
+Button_9B64F20A_8840_BAA8_41DE_0E670419ECBD.label = Lorem Ipsum
+Button_9B65920B_8840_BAA8_41D0_1C82472CE2AC_mobile.label = Lorem Ipsum
+Button_9B66520C_8840_BAA8_41E0_3CA54F88B60A_mobile.label = Lorem Ipsum
+Button_9B66020C_8840_BAA8_41E0_6007B9714EC7_mobile.label = Lorem Ipsum
+Button_9B65720A_8840_BAA8_41AE_D2D98760468A_mobile.label = Lorem Ipsum
+Button_9B65820C_8840_BAA8_41CD_1092219C1D67_mobile.label = Lorem Ipsum
+Button_9B65620A_8840_BAA8_41C3_955E6D9110BB_mobile.label = Lorem Ipsum
+Button_9B66320C_8840_BAA8_41E1_0150D46CB503_mobile.label = Lorem Ipsum
+Button_9B65520A_8840_BAA8_41DB_C0BD1976C3F8.label = Lorem Ipsum
+Button_9B65A20B_8840_BAA8_41C5_C82A54E29C23_mobile.label = Lorem Ipsum
+Button_9B65B20B_8840_BAA8_41D1_0483CAA250A7_mobile.label = Lorem Ipsum
+Button_9B66C20C_8840_BAA8_41D7_E1CC1CC0C729_mobile.label = Lorem Ipsum
+Button_9B66D20C_8840_BAA8_41CB_B188401B52F3_mobile.label = Lorem Ipsum
+Button_9B650209_8840_BAA8_41D9_5D28E9EA4F88_mobile.label = Lorem Ipsum
+Button_9B66220C_8840_BAA8_41BF_7101061CA8AF_mobile.label = Lorem Ipsum
+Button_9B64F20A_8840_BAA8_41DE_0E670419ECBD_mobile.label = Lorem Ipsum
+Button_9B64920A_8840_BAA8_41D2_87B7183C5DE3_mobile.label = Lorem Ipsum
+Button_9B64820A_8840_BAA8_41E0_C695A4A08E8E_mobile.pressedLabel = Lorem Ipsum
+Button_9B64820A_8840_BAA8_41E0_C695A4A08E8E_mobile.label = Lorem Ipsum
+Button_9B66420A_8840_BAA8_41BA_ADC3A3AB1915_mobile.label = Lorem Ipsum
+Button_9B65520A_8840_BAA8_41DB_C0BD1976C3F8_mobile.label = Lorem Ipsum
+Button_9B66720B_8840_BAA8_41E0_E6C154036108_mobile.label = Lorem Ipsum
+Button_9B65620A_8840_BAA8_41D0_F13DC837A747_mobile.label = Lorem Ipsum
+Button_9B65120A_8840_BAA8_41DF_161B4BC53E75_mobile.label = Lorem Ipsum
+Button_9B65320A_8840_BAA8_41DD_95ACF039A232_mobile.label = Lorem Ipsum
+Button_9B66620B_8840_BAA8_41D7_FE0CA45667C5_mobile.label = Lorem Ipsum
+Button_9B66620B_8840_BAA8_41D7_FE0CA45667C5_mobile.pressedLabel = Lorem Ipsum
+Button_9B65B20A_8840_BAA8_41C2_47FBB856FEF8_mobile.label = Lorem Ipsum
+Button_9B66D20B_8840_BAA8_41DE_BB7097A4D82B_mobile.label = Lorem Ipsum
+Button_9B65420A_8840_BAA8_41D8_F796C97B6845_mobile.pressedLabel = Lorem Ipsum
+Button_9B65420A_8840_BAA8_41D8_F796C97B6845_mobile.label = Lorem Ipsum
+Button_9B65620B_8840_BAA8_41DC_CBC2CFAED741_mobile.label = Lorem Ipsum
+Button_9B66320B_8840_BAA8_41D8_0202FEA9C22F_mobile.pressedLabel = Lorem Ipsum
+Button_9B66120B_8840_BAA8_41CE_82933C0DE3D5_mobile.label = Lorem Ipsum
+Button_9B65320A_8840_BAA8_41CC_D6BF253365FC_mobile.label = Lorem Ipsum
+Button_9B65220A_8840_BAA8_41CE_753AE323DB3D_mobile.label = Lorem Ipsum
+Button_9B65D20A_8840_BAA8_41E0_BA5859A05CAA_mobile.label = Lorem Ipsum
+Button_9B65F20A_8840_BAA8_4179_BA7931604B8C_mobile.label = Lorem Ipsum
+Button_9B65F20B_8840_BAA8_41E1_0A54445402E2_mobile.label = Lorem Ipsum
+Button_9B65120B_8840_BAA8_41DE_DB28480868BE_mobile.label = Lorem Ipsum
+Button_9B66720B_8840_BAA8_41B3_E4AC38359661_mobile.label = Lorem Ipsum
+Button_9B66220B_8840_BAA8_41DA_732FF2745AD0_mobile.label = Lorem Ipsum
+Button_9B65220B_8840_BAA8_41BD_EB923F191BE3_mobile.label = Lorem Ipsum
+Button_9B66320B_8840_BAA8_41D8_0202FEA9C22F_mobile.label = Lorem Ipsum
+Button_9B66220C_8840_BAA8_41BF_7101061CA8AF_mobile.pressedLabel = Lorem Ipsum
+Button_9B65D20B_8840_BAA8_41D0_ABF3B5BFE440_mobile.label = Lorem Ipsum
+Button_9B65E20B_8840_BAA8_41E0_082DDCBD69EC_mobile.label = Lorem Ipsum
+Button_9B65820B_8840_BAA8_41D1_FD559D1707A9_mobile.label = Lorem Ipsum
+Button_9B65720A_8840_BAA8_41D8_252D4B82F04A_mobile.label = Lorem ipsum
+Button_9B65120A_8840_BAA8_41A8_654A039E8EE1_mobile.label = Lorem ipsum
+Button_9B65C20B_8840_BAA8_41D6_4D19DE6A6FFB.label = Lorem ipsum
+Button_9B65020B_8840_BAA8_41D1_0505E82C7AD7_mobile.label = Lorem ipsum
+Button_9B65020B_8840_BAA8_41D1_0505E82C7AD7.label = Lorem ipsum
+Button_9B66920C_8840_BAA8_41C3_75DF5A3A6B44_mobile.label = Lorem ipsum
+Button_9B65120A_8840_BAA8_41A8_654A039E8EE1.label = Lorem ipsum
+Button_9B65720A_8840_BAA8_41D8_252D4B82F04A.label = Lorem ipsum
+Button_9B66920C_8840_BAA8_41C3_75DF5A3A6B44.label = Lorem ipsum
+Button_9B65C20B_8840_BAA8_41D6_4D19DE6A6FFB_mobile.label = Lorem ipsum
+Button_9B64C209_8840_BAA8_41C9_A2B5189FEC71.label = Main Entrance
+Button_9B64C209_8840_BAA8_41C9_A2B5189FEC71_mobile.label = Main Entrance
+Button_9B64B209_8840_BAA8_41A9_1FAFFC9EA0C0.label = Meeting Area 1
+Button_9B64B209_8840_BAA8_41A9_1FAFFC9EA0C0_mobile.label = Meeting Area 1
+Button_9B64A209_8840_BAA8_41DD_DCF9E079EAFC.label = Meeting Area 2
+Button_9B64A209_8840_BAA8_41DD_DCF9E079EAFC_mobile.label = Meeting Area 2
+Button_9FE63E75_88C1_AB7D_41BA_DE1760BF2091_mobile.label = Process
+Button_9FE63E75_88C1_AB7D_41BA_DE1760BF2091.label = Process
+Button_9D4FA61E_88C0_BAAF_41B6_58D275EC7973_mobile.label = Projects
+Button_9D4FA61E_88C0_BAAF_41B6_58D275EC7973.label = Projects
+Button_9B649209_8840_BAA8_41C5_963675C741BF.pressedLabel = Reception
+Button_9B649209_8840_BAA8_41C5_963675C741BF.label = Reception
+Button_9B649209_8840_BAA8_41C5_963675C741BF_mobile.pressedLabel = Reception
+Button_9B649209_8840_BAA8_41C5_963675C741BF_mobile.label = Reception
+Button_9B656209_8840_BAA8_41D2_97FC414A1E43.label = Terrace
+Button_9B656209_8840_BAA8_41D2_97FC414A1E43_mobile.label = Terrace
+
 ### Image
-Image_8E47771D_83EC_4B01_419C_95552ECD7BDA.url = skin/Image_8E47771D_83EC_4B01_419C_95552ECD7BDA_en.jpg
-Image_8E47771D_83EC_4B01_419C_95552ECD7BDA_mobile.url = skin/Image_8E47771D_83EC_4B01_419C_95552ECD7BDA_mobile_en.jpg
+Image_878FCA09_8840_AAAF_41DB_41A6B171905A.url = skin/Image_878FCA09_8840_AAAF_41DB_41A6B171905A_en.png
+Image_878FCA09_8840_AAAF_41DB_41A6B171905A_mobile.url = skin/Image_878FCA09_8840_AAAF_41DB_41A6B171905A_mobile_en.png
+Image_980CA26B_8841_7B61_41D4_2D3EB9B2B7F7.url = skin/Image_980CA26B_8841_7B61_41D4_2D3EB9B2B7F7_en.png
+Image_980CA26B_8841_7B61_41D4_2D3EB9B2B7F7_mobile.url = skin/Image_980CA26B_8841_7B61_41D4_2D3EB9B2B7F7_mobile_en.png
+Image_99872BF9_8847_A96B_41D8_8FC01632852C.url = skin/Image_99872BF9_8847_A96B_41D8_8FC01632852C_en.png
+Image_99872BF9_8847_A96B_41D8_8FC01632852C_mobile.url = skin/Image_99872BF9_8847_A96B_41D8_8FC01632852C_mobile_en.png
+Image_9A504313_8840_FABE_41B7_3F00D5F4B917.url = skin/Image_9A504313_8840_FABE_41B7_3F00D5F4B917_en.png
+Image_9A504313_8840_FABE_41B7_3F00D5F4B917_mobile.url = skin/Image_9A504313_8840_FABE_41B7_3F00D5F4B917_mobile_en.png
+Image_9B647208_8840_BAA8_41DB_04DC10DD8796.url = skin/Image_9B647208_8840_BAA8_41DB_04DC10DD8796_en.png
+Image_9B647208_8840_BAA8_41DB_04DC10DD8796_mobile.url = skin/Image_9B647208_8840_BAA8_41DB_04DC10DD8796_mobile_en.png
+Image_9DA6204A_8843_B6AB_41C3_6D45555950FA.url = skin/Image_9DA6204A_8843_B6AB_41C3_6D45555950FA_en.png
+Image_9DA6204A_8843_B6AB_41C3_6D45555950FA_mobile.url = skin/Image_9DA6204A_8843_B6AB_41C3_6D45555950FA_mobile_en.png
+Image_9F1968CD_88C1_7792_41D5_808C1815B2B3.url = skin/Image_9F1968CD_88C1_7792_41D5_808C1815B2B3_en.png
+Image_9F1968CD_88C1_7792_41D5_808C1815B2B3_mobile.url = skin/Image_9F1968CD_88C1_7792_41D5_808C1815B2B3_mobile_en.png
+Image_9FCBF698_88C0_9BB3_41D0_DA4D147D6AA7.url = skin/Image_9FCBF698_88C0_9BB3_41D0_DA4D147D6AA7_en.jpeg
+Image_9FCBF698_88C0_9BB3_41D0_DA4D147D6AA7_mobile.url = skin/Image_9FCBF698_88C0_9BB3_41D0_DA4D147D6AA7_mobile_en.jpeg
+
+### Label
+Label_997411EE_8840_9967_41C7_AB33E6E2753C_mobile.text = Sungai Deli, Sumatera Utara
+Label_997411EE_8840_9967_41C7_AB33E6E2753C.text = Sungai Deli, Sumatera Utara
+Label_99D3C682_8847_9B9E_41BE_E64163BAEB39.text = Sungai Kapuas, Kalimantan Barat
+Label_99D3C682_8847_9B9E_41BE_E64163BAEB39_mobile.text = Sungai Kapuas, Kalimantan Barat
+
+### Multiline Text
+HTMLText_9F4FC401_88C0_9E95_41B5_CF31E832E5DB_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.1126760563380302vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.11vh;font-family:'Website Font Cerita Sungai';">Project ini adalah bagian dari pencatatan cerita lisan tentang dua sungai yang ada di Indonesia. Kedua sungai tersebut adalah Sungai Deli di Sumatera Utara, dan SUngai Kapuas di Kalimantan Barat. Kedua sungai ini memiliki pengaruh yang sangat kuat terhadap tradisi warga di sekitarnya. Kedua sungai ini pun memiliki kekayaan cerita lisan yang berkembang secara turun-temurun. Dari beberapa cerita, kami mengambil cerita lisan yang berhubungan dengan genealogi, dan sejarah yang dipercayai oleh masyarakat. Sumber-sumber certia merupakan hasil dari riset literatur dan riset lapangan yang dilakukan pada Februari hingga April pada tahun 2024.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.11vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1126760563380302vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.11vh;font-family:'Website Font Cerita Sungai';">Cerita-cerita yang selama ini dianggap mitos belaka, ternyata punya pesan dan pembelajaran yang bermanfaat. Melalui medium video animasi yang dikerjakan dengan gambar manual dan sentuhan AI, sebagai bagian dari eksperimen, bagaimana konten cerita lisan yang dianggap sangat tradisional, bisa secara harmonis bekerja sama dengan praktik manusia, dan mesin yang terus berkembang. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.11vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1126760563380302vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.11vh;font-family:'Website Font Cerita Sungai';">Project ini merupakan bagian dari pemajuan kebudayaan yang didukung oleh Kemendikbud melalui Dana Indonesiana 2024.</SPAN></SPAN></DIV></div>
+HTMLText_9E52C9DB_88C0_E9B6_41DA_33FBA366B86A_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.347417840375587vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.35vh;font-family:'Website Font Cerita Sungai';">Project ini diinisiasi oleh Wiratama, M Hafis, serta melibatkan Moch Hasrul, dan Ayudia Risya sebagai periset.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.347417840375587vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.35vh;font-family:'Website Font Cerita Sungai';">Riset lapangan terkait Sungai Deli, di Medan, dibantu oleh Bang Tatok, seorang budayawan Melayu, Tengku Ariy dari kolektif Degilhouse, Desta Bangun, seorang “paranormal”, serta Moharsyah dari Kesultanan Melayu Deli, serta dibantu koleksi literatur dari Perpustakaan Melayu Tengku Luckman Sinar, dan Perpustakaan Kota Medan.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.35vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.347417840375587vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.35vh;font-family:'Website Font Cerita Sungai';">Riset lapangan terkait Sungai Kapuas, di Pontianak, dibantu oleh Hatta, Gusti Enda, dan Fadlyi, ketiganya merupakan bagian dari kolektif Susur Galur dan Pak Kancil, mantan sekertaris Kesultanan Kadariyah, Rikaz, dosen dari Universitas Tanjung Pura, dan beberapa narasumber lainnya.   </SPAN></SPAN></DIV></div>
+HTMLText_9F3F3FDD_88C0_A9B2_41D1_DBE773DBC058_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.347417840375587vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.35vh;font-family:'Website Font Cerita Sungai';">Tim periset melakukan pertemuan pertama dengan narasumber dan pemandu yang akan menemani proses riset lapangan di Pontianak. Narasumber dan pemandu berasal dari kolektif Susur Galur, sebuah kolektif yang aktif membahas wacana seni dan budaya di Pontianak, dan kerap mengadakan kegiatan seni budaya, berupa pameran, diskusi, dan program residensi.</SPAN></SPAN></DIV></div>
+HTMLText_9F4FC401_88C0_9E95_41B5_CF31E832E5DB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.0042918454935577vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3vh;font-family:'Website Font Cerita Sungai';">Project ini adalah bagian dari pencatatan cerita lisan tentang dua sungai yang ada di Indonesia. Kedua sungai tersebut adalah Sungai Deli di Sumatera Utara, dan SUngai Kapuas di Kalimantan Barat. Kedua sungai ini memiliki pengaruh yang sangat kuat terhadap tradisi warga di sekitarnya. Kedua sungai ini pun memiliki kekayaan cerita lisan yang berkembang secara turun-temurun. Dari beberapa cerita, kami mengambil cerita lisan yang berhubungan dengan genealogi, dan sejarah yang dipercayai oleh masyarakat. Sumber-sumber certia merupakan hasil dari riset literatur dan riset lapangan yang dilakukan pada Februari hingga April pada tahun 2024.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.0042918454935577vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3vh;font-family:'Website Font Cerita Sungai';">Cerita-cerita yang selama ini dianggap mitos belaka, ternyata punya pesan dan pembelajaran yang bermanfaat. Melalui medium video animasi yang dikerjakan dengan gambar manual dan sentuhan AI, sebagai bagian dari eksperimen, bagaimana konten cerita lisan yang dianggap sangat tradisional, bisa secara harmonis bekerja sama dengan praktik manusia, dan mesin yang terus berkembang. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.0042918454935577vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3vh;font-family:'Website Font Cerita Sungai';">Project ini merupakan bagian dari pemajuan kebudayaan yang didukung oleh Kemendikbud melalui Dana Indonesiana 2024.</SPAN></SPAN></DIV></div>
+HTMLText_9F883FA8_88DF_A992_41DE_738995230EAE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.0042918454935577vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3vh;font-family:'Website Font Cerita Sungai';">Project ini diinisiasi oleh Wiratama, M Hafis, serta melibatkan Moch Hasrul, dan Ayudia Risya sebagai periset.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.0042918454935577vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3vh;font-family:'Website Font Cerita Sungai';">Riset lapangan terkait Sungai Deli, di Medan, dibantu oleh Bang Tatok, seorang budayawan Melayu, Tengku Ariy dari kolektif Degilhouse, Desta Bangun, seorang “paranormal”, serta Moharsyah dari Kesultanan Melayu Deli, serta dibantu koleksi literatur dari Perpustakaan Melayu Tengku Luckman Sinar, dan Perpustakaan Kota Medan.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.0042918454935577vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3vh;font-family:'Website Font Cerita Sungai';">Riset lapangan terkait Sungai Kapuas, di Pontianak, dibantu oleh Hatta, Gusti Enda, dan Fadlyi, ketiganya merupakan bagian dari kolektif Susur Galur dan Pak Kancil, mantan sekertaris Kesultanan Kadariyah, Rikaz, dosen dari Universitas Tanjung Pura, dan beberapa narasumber lainnya.   </SPAN></SPAN></DIV></div>
+HTMLText_9E52C9DB_88C0_E9B6_41DA_33FBA366B86A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.0042918454935577vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3vh;font-family:'Website Font Cerita Sungai';">Project ini diinisiasi oleh Wiratama, M Hafis, serta melibatkan Moch Hasrul, dan Ayudia Risya sebagai periset.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.0042918454935577vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3vh;font-family:'Website Font Cerita Sungai';">Riset lapangan terkait Sungai Deli, di Medan, dibantu oleh Bang Tatok, seorang budayawan Melayu, Tengku Ariy dari kolektif Degilhouse, Desta Bangun, seorang “paranormal”, serta Moharsyah dari Kesultanan Melayu Deli, serta dibantu koleksi literatur dari Perpustakaan Melayu Tengku Luckman Sinar, dan Perpustakaan Kota Medan.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.0042918454935577vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3vh;font-family:'Website Font Cerita Sungai';">Riset lapangan terkait Sungai Kapuas, di Pontianak, dibantu oleh Hatta, Gusti Enda, dan Fadlyi, ketiganya merupakan bagian dari kolektif Susur Galur dan Pak Kancil, mantan sekertaris Kesultanan Kadariyah, Rikaz, dosen dari Universitas Tanjung Pura, dan beberapa narasumber lainnya.   </SPAN></SPAN></DIV></div>
+HTMLText_9F883FA8_88DF_A992_41DE_738995230EAE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.0042918454935577vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3vh;font-family:'Website Font Cerita Sungai';">Project ini diinisiasi oleh Wiratama, M Hafis, serta melibatkan Moch Hasrul, dan Ayudia Risya sebagai periset.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.0042918454935577vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3vh;font-family:'Website Font Cerita Sungai';">Riset lapangan terkait Sungai Deli, di Medan, dibantu oleh Bang Tatok, seorang budayawan Melayu, Tengku Ariy dari kolektif Degilhouse, Desta Bangun, seorang “paranormal”, serta Moharsyah dari Kesultanan Melayu Deli, serta dibantu koleksi literatur dari Perpustakaan Melayu Tengku Luckman Sinar, dan Perpustakaan Kota Medan.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.0042918454935577vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3vh;font-family:'Website Font Cerita Sungai';">Riset lapangan terkait Sungai Kapuas, di Pontianak, dibantu oleh Hatta, Gusti Enda, dan Fadlyi, ketiganya merupakan bagian dari kolektif Susur Galur dan Pak Kancil, mantan sekertaris Kesultanan Kadariyah, Rikaz, dosen dari Universitas Tanjung Pura, dan beberapa narasumber lainnya.   </SPAN></SPAN></DIV></div>
+HTMLText_9D5DBA69_88C1_6A95_4176_58A9234FEB42.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.0042918454935577vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3vh;font-family:'Website Font Cerita Sungai';">Riset Februari 2024</SPAN></SPAN></DIV></div>
+HTMLText_9D5DBA69_88C1_6A95_4176_58A9234FEB42_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.0042918454935577vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3vh;font-family:'Website Font Cerita Sungai';">Riset Februari 2024</SPAN></SPAN></DIV></div>
+HTMLText_9F3F3FDD_88C0_A9B2_41D1_DBE773DBC058.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.0042918454935577vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3vh;font-family:'Website Font Cerita Sungai';">Tim periset melakukan pertemuan pertama dengan narasumber dan pemandu yang akan menemani proses riset lapangan di Pontianak. Narasumber dan pemandu berasal dari kolektif Susur Galur, sebuah kolektif yang aktif membahas wacana seni dan budaya di Pontianak, dan kerap mengadakan kegiatan seni budaya, berupa pameran, diskusi, dan program residensi.</SPAN></SPAN></DIV></div>
 
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = ceritasungai
+tour.name = Cerita Sungai
